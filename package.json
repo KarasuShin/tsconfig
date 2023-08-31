@@ -1,12 +1,13 @@
 {
   "name": "@karasushin/tsconfig",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "keywords": ["typescript", "tsconfig"],
   "author": "karasu shin <karasu.shing@gmail.com>",
   "license": "MIT",
   "files": [
     "base.json",
-    "react.json"
+    "lib.json",
+    "react-lib.json"
   ],
   "scripts": {
     "release": "npm publish --access=public"
