@@ -1,6 +1,6 @@
 {
   "name": "@karasushin/tsconfig",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "keywords": ["typescript", "tsconfig"],
   "author": "karasu shin <karasu.shing@gmail.com>",
   "license": "MIT",
